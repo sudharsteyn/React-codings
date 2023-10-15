@@ -1,0 +1,12 @@
+.appointments {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.appointment-list {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

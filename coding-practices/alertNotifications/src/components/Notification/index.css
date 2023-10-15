@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.notification-list {
+  border: 1px solid black;
+  margin: 18px;
+  display: flex;
+  align-items: center;
+}

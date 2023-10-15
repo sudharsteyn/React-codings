@@ -1,0 +1,53 @@
+.bg-container {
+  background-color: #07080c;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-style: italic;
+  font-size: 48px;
+  font-weight: 500;
+}
+
+.current-speed {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 28px;
+}
+
+.description {
+  font-family: 'Roboto';
+  color: #cbd5e1;
+  font-size: 18px;
+}
+
+.meter-img {
+  height: 300px;
+  width: 600px;
+}
+
+.acc-btn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  font-family: 'Roboto';
+  border: none;
+  border-radius: 8px;
+  padding: 8px;
+  margin-right: 12px;
+}
+
+.brk-btn {
+  background-color: transparent;
+  color: #94a3b8;
+  font-family: 'Roboto';
+  border: solid 2px #94a3b8;
+  border-radius: 8px;
+  padding: 8px;
+  margin-left: 12px;
+}

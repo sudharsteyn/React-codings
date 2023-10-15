@@ -1,0 +1,10 @@
+.blog-item {
+  list-style-type: none;
+  width: 100%;
+  border-bottom: 1px solid #e7e5ea;
+}
+
+.title-container {
+  display: flex;
+  justify-content: space-between;
+}

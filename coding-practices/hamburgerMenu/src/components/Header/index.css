@@ -1,0 +1,39 @@
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #dcdcdc;
+  padding: 18px;
+  padding-left: 28px;
+  padding-right: 28px;
+}
+
+.logo {
+  height: 50px;
+  width: 50px;
+}
+
+.burger-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.menu {
+  height: 30px;
+  width: 30px;
+}
+
+.popup-container {
+  background-color: #ffffff;
+  height: 100vh;
+  width: 100vw;
+}
+
+.close-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}

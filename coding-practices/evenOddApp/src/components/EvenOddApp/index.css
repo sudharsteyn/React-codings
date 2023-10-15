@@ -1,0 +1,47 @@
+.bg-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.count-container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  padding: 58px;
+}
+
+.heading {
+  font-family: 'Roboto';
+  color: #0f172a;
+  font-size: 38px;
+}
+
+.count-result {
+  font-family: 'Roboto';
+  color: #334155;
+  font-size: 24px;
+}
+
+.increment-btn {
+  background-color: #ffffff;
+  color: #1e293b;
+  font-family: 'Roboto';
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 28px;
+  padding-right: 28px;
+}
+
+.info {
+  font-family: 'Roboto';
+  color: #334155;
+  font-size: 12px;
+}

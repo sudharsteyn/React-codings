@@ -1,0 +1,43 @@
+.bg-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.dark-mode {
+  background-color: #000000;
+  color: #ffffff;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 18px;
+  border: solid 2px #000000;
+}
+
+.light-mode {
+  background-color: #ffffff;
+  color: #000000;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 18px;
+  border: solid 2px #000000;
+}
+
+.heading {
+  font-family: 'Roboto';
+}
+
+.mode-btn {
+  font-family: 'Roboto';
+  color: #000000;
+  font-size: 14px;
+  padding: 12px;
+  border-radius: 8px;
+}

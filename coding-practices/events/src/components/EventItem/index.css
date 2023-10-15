@@ -1,0 +1,37 @@
+.event-item {
+  list-style-type: none;
+  margin-right: 18px;
+  margin-bottom: 18px;
+}
+
+.event-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  text-align: left;
+  padding: 0px;
+}
+
+.event-img {
+  height: 150px;
+  width: 250px;
+}
+
+.event-name {
+  font-family: 'Roboto';
+  color: #f8fafc;
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 8px;
+  margin-bottom: 0px;
+}
+
+.event-location {
+  font-family: 'Roboto';
+  color: #f8fafc;
+  font-size: 16px;
+  font-weight: 300;
+  margin-top: 8px;
+  margin-bottom: 0px;
+}

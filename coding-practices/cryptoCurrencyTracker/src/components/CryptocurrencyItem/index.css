@@ -1,0 +1,32 @@
+.crypto-item {
+  list-style-type: none;
+  display: flex;
+}
+
+.currency-name {
+  font-family: 'Roboto';
+  color: #ffffff;
+  margin-left: 8px;
+}
+
+.currency-detail {
+  width: 70%;
+  display: flex;
+}
+
+.currency-logo {
+  height: 40px;
+  width: 40px;
+}
+
+.usd-price {
+  font-family: 'Roboto';
+  color: #ffffff;
+  width: 15%;
+}
+
+.euro-price {
+  font-family: 'Roboto';
+  color: #ffffff;
+  width: 15%;
+}

@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+.bg-container {
+  background-image: linear-gradient(to right, #ffeeee, #ffc0bb);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.body-container {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.emoji-btn {
+  background-color: #ffffff;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.d-none {
+  display: none;
+}
+
+.emoji-list {
+  list-style-type: none;
+  display: flex;
+}

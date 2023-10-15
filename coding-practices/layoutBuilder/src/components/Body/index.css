@@ -1,0 +1,40 @@
+.body-container {
+  height: 400px;
+  margin-top: 18px;
+  margin-bottom: 18px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.lef-navbar {
+  background-color: #e2e8f0;
+  width: 30%;
+  padding: 28px;
+  flex-shrink: 0;
+}
+
+.body-content-container {
+  background-color: #f1f5f9;
+  width: 100%;
+  padding: 28px;
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.right-navbar {
+  background-color: #e2e8f0;
+  width: 30%;
+  flex-shrink: 0;
+  padding: 28px;
+}
+
+.ad-cart {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #475569;
+  height: 30%;
+  width: 80%;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}

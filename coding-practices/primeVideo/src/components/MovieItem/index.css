@@ -1,0 +1,19 @@
+.popup-container {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+}
+
+.close-btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  align-self: flex-end;
+}
+
+.video-player {
+  padding: 8px;
+}

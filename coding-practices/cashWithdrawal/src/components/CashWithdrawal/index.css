@@ -1,0 +1,86 @@
+.bg-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ui-container {
+  background-color: #150b3e;
+  border-radius: 12px;
+  padding: 18px;
+  height: 340px;
+  width: 300px;
+}
+
+.user-profile {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.profile-pic {
+  background-color: #c7d2fe;
+  height: 40px;
+  width: 40px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-initial {
+  font-family: 'Roboto';
+  color: #7c3aed;
+  font-size: 14px;
+}
+
+.user-name {
+  font-family: 'Roboto';
+  color: #d4d2db;
+  margin-left: 12px;
+}
+
+.balance-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.balance-title {
+  font-family: 'Roboto';
+  color: #585076;
+  font-size: 14px;
+}
+
+.balance {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 26px;
+  margin: 0px;
+}
+
+.rupees {
+  font-family: 'Roboto';
+  color: #585076;
+  font-size: 12px;
+}
+
+.withdraw {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-size: 18px;
+}
+
+.btn-info {
+  font-family: 'Roboto';
+  color: #585076;
+  font-size: 16px;
+}
+
+.denomination-list {
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}

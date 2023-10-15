@@ -1,0 +1,37 @@
+.app-container {
+  background-color: #9796f0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.emoji-list-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+
+  width: 60%;
+}
+.emoji-game-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 767px) {
+  .emoji-list-container {
+    list-style-type: none;
+    padding-left: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+
+    width: 100%;
+  }
+  .emoji-game-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}

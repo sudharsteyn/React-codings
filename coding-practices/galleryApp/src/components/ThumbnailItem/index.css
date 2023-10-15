@@ -1,0 +1,23 @@
+.thumbnail-img {
+  height: 60px;
+  width: 60px;
+  opacity: 0.5;
+  border-radius: 8px;
+  margin-right: 18px;
+  margin-bottom: 18px;
+}
+
+.thumbnail {
+  display: flex;
+}
+
+.thumbnail-btn {
+  margin: 0px;
+  padding: 0px;
+  background-color: #ffffff;
+  border: none;
+}
+
+.selected-thumbnail {
+  opacity: 1;
+}

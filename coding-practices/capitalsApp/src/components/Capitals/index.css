@@ -1,0 +1,11 @@
+.bg-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.country-and-capital {
+  background-color: #ffffff;
+}

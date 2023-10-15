@@ -1,0 +1,30 @@
+.bg-container {
+  min-height: 100vh;
+  display: flex;
+}
+
+.event-container {
+  background-color: #64748b;
+  width: 60%;
+  padding-top: 18px;
+  padding-left: 38px;
+}
+
+.event-heading {
+  font-family: 'Roboto';
+  color: #f8fafc;
+}
+
+.event-item-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+}
+
+.event-register-container {
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

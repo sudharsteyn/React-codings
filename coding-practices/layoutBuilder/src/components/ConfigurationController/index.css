@@ -1,0 +1,29 @@
+.configuration-controller-container {
+  background-color: #475569;
+  padding-top: 28px;
+  padding-left: 58px;
+  padding-bottom: 18px;
+}
+
+.layout-text {
+  font-family: 'Roboto';
+  color: #f1f5f9;
+  margin-top: 0px;
+}
+
+.label-text {
+  font-family: 'Roboto';
+  color: #e2e8f0;
+  margin-left: 8px;
+}
+
+.nav-item-list {
+  list-style-type: none;
+  padding: 0px;
+  margin-bottom: 18px;
+}
+
+.nav-item {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}

@@ -1,0 +1,11 @@
+.login-btn {
+  font-family: 'Roboto';
+  background-color: #f8fafc;
+  color: #303150;
+  border: none;
+  border-radius: 8px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 18px;
+  padding-right: 18px;
+}

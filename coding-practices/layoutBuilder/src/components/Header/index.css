@@ -1,0 +1,12 @@
+.header-container {
+  background-color: #cbd5e1;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.header-text {
+  font-family: 'Roboto';
+  color: #475569;
+  font-size: 48px;
+}

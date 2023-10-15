@@ -1,0 +1,39 @@
+.navbar {
+  padding: 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-logo {
+  height: 50px;
+  width: 50px;
+}
+
+.logo-name {
+  font-family: 'Roboto';
+  color: #12022f;
+  font-size: 28px;
+  font-weight: 700;
+  margin-left: 8px;
+}
+
+.nav-items {
+  list-style-type: none;
+  display: flex;
+}
+
+.nav-item {
+  font-family: 'Roboto';
+  color: #12022f;
+  font-size: 28px;
+  font-weight: 700;
+  text-decoration: none;
+  margin-left: 18px;
+}

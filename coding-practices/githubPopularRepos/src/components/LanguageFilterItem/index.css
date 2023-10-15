@@ -1,0 +1,25 @@
+.language-item {
+  margin-left: 8px;
+  margin-right: 8px;
+}
+
+.language-btn {
+  font-family: 'Roboto';
+  color: #0f172a;
+  font-weight: 800;
+  font-size: 18px;
+  background-color: transparent;
+  border: none;
+  border-radius: 18px;
+  padding-left: 18px;
+  padding-right: 18px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  outline: none;
+  cursor: pointer;
+}
+
+.selected-btn {
+  color: #0284c7;
+  border: 1px solid #0284c7;
+}

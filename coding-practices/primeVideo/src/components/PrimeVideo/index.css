@@ -1,0 +1,25 @@
+.app-container {
+  background-color: #000000;
+  min-height: 100vh;
+}
+
+.prime-video {
+  height: 260px;
+  width: 100%;
+}
+
+.movies-container {
+  padding: 30px;
+}
+
+.slider-heading {
+  font-family: 'Roboto';
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 28px;
+  margin: 0px;
+}
+
+.slider-container {
+  padding: 20px;
+}
